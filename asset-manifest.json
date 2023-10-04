@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/prashu-asp/SPSWEBPAGE/static/css/main.67084c91.chunk.css",
+    "main.js": "/prashu-asp/SPSWEBPAGE/static/js/main.a370000d.chunk.js",
+    "main.js.map": "/prashu-asp/SPSWEBPAGE/static/js/main.a370000d.chunk.js.map",
+    "runtime-main.js": "/prashu-asp/SPSWEBPAGE/static/js/runtime-main.251ebd13.js",
+    "runtime-main.js.map": "/prashu-asp/SPSWEBPAGE/static/js/runtime-main.251ebd13.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/prashu-asp/SPSWEBPAGE/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.4c190872.chunk.js": "/prashu-asp/SPSWEBPAGE/static/js/2.4c190872.chunk.js",
+    "static/js/2.4c190872.chunk.js.map": "/prashu-asp/SPSWEBPAGE/static/js/2.4c190872.chunk.js.map",
+    "static/js/3.ca882c1d.chunk.js": "/prashu-asp/SPSWEBPAGE/static/js/3.ca882c1d.chunk.js",
+    "static/js/3.ca882c1d.chunk.js.map": "/prashu-asp/SPSWEBPAGE/static/js/3.ca882c1d.chunk.js.map",
+    "index.html": "/prashu-asp/SPSWEBPAGE/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/prashu-asp/SPSWEBPAGE/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.67084c91.chunk.css.map": "/prashu-asp/SPSWEBPAGE/static/css/main.67084c91.chunk.css.map",
+    "static/js/2.4c190872.chunk.js.LICENSE.txt": "/prashu-asp/SPSWEBPAGE/static/js/2.4c190872.chunk.js.LICENSE.txt",
+    "static/media/SRC1.32b318bd.png": "/prashu-asp/SPSWEBPAGE/static/media/SRC1.32b318bd.png",
+    "static/media/Scr1.fa944727.jpg": "/prashu-asp/SPSWEBPAGE/static/media/Scr1.fa944727.jpg",
+    "static/media/Scr2.d66807c0.jpg": "/prashu-asp/SPSWEBPAGE/static/media/Scr2.d66807c0.jpg",
+    "static/media/Scr3.363d3378.jpg": "/prashu-asp/SPSWEBPAGE/static/media/Scr3.363d3378.jpg",
+    "static/media/Scr4.3b082a87.jpeg": "/prashu-asp/SPSWEBPAGE/static/media/Scr4.3b082a87.jpeg",
+    "static/media/Scr8.b70b8f89.jpg": "/prashu-asp/SPSWEBPAGE/static/media/Scr8.b70b8f89.jpg",
+    "static/media/Scr9.c6c2e9e5.jpeg": "/prashu-asp/SPSWEBPAGE/static/media/Scr9.c6c2e9e5.jpeg",
+    "static/media/bg.2628f5fa.jpg": "/prashu-asp/SPSWEBPAGE/static/media/bg.2628f5fa.jpg",
+    "static/media/logobg.4fe4281f.png": "/prashu-asp/SPSWEBPAGE/static/media/logobg.4fe4281f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251ebd13.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.4c190872.chunk.js",
+    "static/css/main.67084c91.chunk.css",
+    "static/js/main.a370000d.chunk.js"
+  ]
+}
